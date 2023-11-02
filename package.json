@@ -1,0 +1,15 @@
+{
+  "name": "bill-invoice-nodejs",
+  "version": "1.0.0",
+  "description": "Backend to support bill-invoice-react front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Durgesh Dubey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "twilio": "^4.19.0"
+  }
+}
